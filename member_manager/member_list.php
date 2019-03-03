@@ -50,6 +50,7 @@
         </table>
         <p><a href="?action=show_add_form">Add Member</a></p>
         <p><a href="?action=list_roles">List Roles</a></p>
+        <p><a href="../index.php">Back</a></p>
     </section>
 
 </main>
