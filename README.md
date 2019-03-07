@@ -1,11 +1,11 @@
-#Description
+# Description
 
 The website is used to manage a clan from a game called Clash of Clans.  
 Displaying the list of members within the clan, their roles, managing their   
 permissions and creating armies. 
 
 
-##Function
+## Function
 
 The Member Manager displays the members table. It shows the member name,  
 townhall, league and the level. You can add, edit and delete a member.  
@@ -18,14 +18,14 @@ The Permission Manager displays the permissions table. It shows the permissions.
 You can add, edit and delete a permission.
 
 
-##Languages
+## Languages
 
 HTML5
 PHP
 CSS
 
 
-##Installation
+## Installation
 
 Xampp
 Netbeans
